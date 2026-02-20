@@ -1,78 +1,69 @@
-<!-- Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Luciano+Guardese;Backend+Developer;Fullstack+Developer+%7C+React+%26+Node.js;APIs+REST+%7C+PostgreSQL+%7C+TypeScript;Deploy+en+Producci%C3%B3n+%7C+Arquitectura+Modular" />
-</p>
-
-<h1 align="center">Hola, soy Luciano Guardese</h1>
+<h1 align="center">Luciano Guardese</h1>
 
 <p align="center">
-  Técnico Universitario en Programación (UTN) <br>
-  Backend Developer | Perfil Fullstack <br>
-  Argentina
+Backend Developer · Fullstack Profile  
+Técnico Universitario en Programación (UTN)  
+Argentina
 </p>
 
 ---
 
-## Sobre mí
+## About
 
-Soy desarrollador orientado a backend con experiencia construyendo aplicaciones web fullstack completas, incluyendo arquitectura de API, modelado de base de datos y despliegue en producción.
+Backend Developer orientado a arquitectura y desarrollo de APIs REST, con experiencia construyendo aplicaciones web fullstack desplegadas en producción.
 
-Trabajo con una mentalidad estructurada, enfocada en buenas prácticas, diseño escalable y soluciones alineadas a necesidades reales de negocio.
+Trabajo con foco en diseño estructural, modelado de bases de datos y soluciones escalables alineadas a necesidades reales de negocio.
 
 ---
 
-## Proyecto Fullstack en Producción
+## Production Project
 
 ### Oleohidráulica Guardese
 
-🌐 **Demo online:**  
+Aplicación web fullstack desplegada en producción.
+
+Demo:  
 https://trabajo-final-frontend-j103.onrender.com  
 
-📂 **Repositorios:**  
+Repositories:  
 Frontend → https://github.com/belenburgos20/Trabajo-Final-Frontend  
 Backend → https://github.com/belenburgos20/Trabajo-Final-Backend  
 
-### Arquitectura
+Arquitectura implementada:
 
-- React 19 + TypeScript + Vite  
-- Node.js + Express + TypeScript  
-- PostgreSQL (Render)  
-- Sequelize  
-- Autenticación JWT  
-- API REST modular  
-- Deploy completo en producción  
+- React + TypeScript
+- Node.js + Express + TypeScript
+- PostgreSQL
+- Sequelize ORM
+- JWT Authentication
+- Modular REST API
+- Deploy en Render (frontend + backend + database)
 
 ---
 
-## Stack Tecnológico
+## Tech Stack
 
-### Lenguajes
+**Languages**  
 C++ · C# · Python · JavaScript · TypeScript · SQL  
 
-### Backend
+**Backend**  
 Node.js · Express · REST APIs · JWT · Sequelize · PostgreSQL  
 
-### Frontend
-React · TypeScript · React Router · Context API · Axios · Bootstrap  
+**Frontend**  
+React · TypeScript · React Router · Axios  
 
-### Herramientas
-Git · GitHub · Postman · Render · ESLint · Prettier · Husky · Vitest  
+**Practices & Tools**  
+Git · GitHub · Postman · Render · ESLint · Prettier · Vitest  
 
 ---
 
-## Contacto
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luciano-guardese-3402981b5/">
-    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-blueviolet?style=for-the-badge&logo=linkedin" />
-  </a>
+    LinkedIn
+  </a> · 
   <a href="mailto:lucho.guardese@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-success?style=for-the-badge&logo=gmail" />
+    Email
   </a>
-</p>
-
----
-
-<p align="center">
-  Backend con visión de arquitectura. Código con propósito.
 </p>
