@@ -3,17 +3,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Luciano+Guardese;Backend+Developer;Fullstack+Developer+%7C+React+%26+Node.js;APIs+REST+%7C+PostgreSQL+%7C+TypeScript;Deploy+en+Producci%C3%B3n+%7C+Arquitectura+Modular" />
 </p>
 
-<h1 align="center">👋 Hola, soy Luciano Guardese</h1>
+<h1 align="center">Hola, soy Luciano Guardese</h1>
 
 <p align="center">
-  🎓 Técnico Universitario en Programación (UTN) <br>
-  💻 Backend Developer | Perfil Fullstack <br>
-  📍 Argentina
+  Técnico Universitario en Programación (UTN) <br>
+  Backend Developer | Perfil Fullstack <br>
+  Argentina
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Soy desarrollador orientado a backend con experiencia construyendo aplicaciones web fullstack completas, incluyendo arquitectura de API, modelado de base de datos y despliegue en producción.
 
@@ -21,7 +21,7 @@ Trabajo con una mentalidad estructurada, enfocada en buenas prácticas, diseño 
 
 ---
 
-## 🏗 Proyecto Fullstack en Producción
+## Proyecto Fullstack en Producción
 
 ### Oleohidráulica Guardese
 
@@ -44,7 +44,7 @@ Backend → https://github.com/belenburgos20/Trabajo-Final-Backend
 
 ---
 
-## 🛠 Stack Tecnológico
+## Stack Tecnológico
 
 ### Lenguajes
 C++ · C# · Python · JavaScript · TypeScript · SQL  
@@ -60,7 +60,7 @@ Git · GitHub · Postman · Render · ESLint · Prettier · Husky · Vitest
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luciano-guardese-3402981b5/" target="_blank">
@@ -75,5 +75,5 @@ Git · GitHub · Postman · Render · ESLint · Prettier · Husky · Vitest
 ---
 
 <p align="center">
-  🚀 Backend con visión de arquitectura. Código con propósito.
+  Backend con visión de arquitectura. Código con propósito.
 </p>
