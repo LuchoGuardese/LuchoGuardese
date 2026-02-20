@@ -14,7 +14,7 @@ Backend Developer orientado a arquitectura y desarrollo de APIs REST, con experi
 
 Trabajo con foco en diseño estructural, modelado de bases de datos y soluciones escalables alineadas a necesidades reales de negocio.
 
-Mantengo una formación continua, expandiendo mis conocimientos en nuevas tecnologías y profundizando en lenguajes como Java, fortaleciendo mi base para entornos backend más amplios y arquitecturas empresariales.
+Actualmente continúo ampliando mi stack tecnológico, estudiando y practicando nuevos lenguajes como Java, con el objetivo de expandir mi capacidad de desarrollo backend en distintos ecosistemas.
 
 ---
 
@@ -46,7 +46,7 @@ Arquitectura implementada:
 ## Tech Stack
 
 **Languages**  
-C++ · C# · Python · JavaScript · TypeScript · SQL · Java  
+C++ · C# · Python · JavaScript · TypeScript · SQL · Java 
 
 **Backend**  
 Node.js · Express · REST APIs · JWT · Sequelize · PostgreSQL  
