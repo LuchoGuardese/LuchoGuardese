@@ -63,12 +63,11 @@ Git · GitHub · Postman · Render · ESLint · Prettier · Husky · Vitest
 ## Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luciano-guardese-3402981b5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Luciano%20Guardese-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/luciano-guardese-3402981b5/">
+    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-blueviolet?style=for-the-badge&logo=linkedin" />
   </a>
-  
   <a href="mailto:lucho.guardese@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Me-success?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
