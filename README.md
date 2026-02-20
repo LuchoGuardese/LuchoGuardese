@@ -1,8 +1,15 @@
-# 👋 Luciano Guardese
+<!-- Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Luciano+Guardese;Backend+Developer;Fullstack+Developer+%7C+React+%26+Node.js;APIs+REST+%7C+PostgreSQL+%7C+TypeScript;Deploy+en+Producci%C3%B3n+%7C+Arquitectura+Modular" />
+</p>
 
-🎓 Técnico Universitario en Programación (UTN)  
-💻 Backend Developer | Fullstack Profile  
-📍 Argentina  
+<h1 align="center">👋 Hola, soy Luciano Guardese</h1>
+
+<p align="center">
+  🎓 Técnico Universitario en Programación (UTN) <br>
+  💻 Backend Developer | Perfil Fullstack <br>
+  📍 Argentina
+</p>
 
 ---
 
@@ -12,96 +19,63 @@ Soy desarrollador orientado a backend con experiencia construyendo aplicaciones 
 
 Trabajo con una mentalidad estructurada, enfocada en buenas prácticas, diseño escalable y soluciones alineadas a necesidades reales de negocio.
 
-Actualmente busco desarrollarme profesionalmente dentro de un equipo donde pueda aportar solidez técnica y seguir creciendo en arquitectura de software.
-
 ---
 
 ## 🏗 Proyecto Fullstack en Producción
 
 ### Oleohidráulica Guardese
 
-Aplicación web completa desarrollada como proyecto final académico y desplegada en entorno productivo.
+🌐 **Demo online:**  
+https://trabajo-final-frontend-j103.onrender.com  
 
-🔗 https://trabajo-final-frontend-j103.onrender.com
+📂 **Repositorios:**  
+Frontend → https://github.com/belenburgos20/Trabajo-Final-Frontend  
+Backend → https://github.com/belenburgos20/Trabajo-Final-Backend  
 
-### Arquitectura implementada:
+### Arquitectura
 
-- Frontend: React 19 + TypeScript + Vite
-- Backend: Node.js + Express + TypeScript
-- Base de datos: PostgreSQL (Render)
-- ORM: Sequelize
-- Autenticación segura con JWT
-- API REST modular
-- Testing con Vitest
-- Deploy completo en Render (frontend + backend + DB)
-
-Incluye:
-
-- Portal público
-- Portal cliente (carrito y gestión de presupuestos)
-- Panel administrador (CRUD completo)
-- Manejo de roles y autenticación
+- React 19 + TypeScript + Vite  
+- Node.js + Express + TypeScript  
+- PostgreSQL (Render)  
+- Sequelize  
+- Autenticación JWT  
+- API REST modular  
+- Deploy completo en producción  
 
 ---
 
 ## 🛠 Stack Tecnológico
 
 ### Lenguajes
-- C++
-- C#
-- Python
-- JavaScript
-- TypeScript
-- SQL
+C++ · C# · Python · JavaScript · TypeScript · SQL  
 
 ### Backend
-- Node.js
-- Express
-- REST APIs
-- JWT
-- Sequelize
-- Arquitectura modular
+Node.js · Express · REST APIs · JWT · Sequelize · PostgreSQL  
 
 ### Frontend
-- React
-- TypeScript
-- React Router
-- Context API
-- Axios
-- Bootstrap
+React · TypeScript · React Router · Context API · Axios · Bootstrap  
 
-### Bases de Datos
-- PostgreSQL
-- Modelado Entidad-Relación (MER)
-- Normalización
-- Diseño estructural de sistemas de gestión
-
-### Herramientas & Prácticas
-- Git & GitHub
-- Postman
-- Render (Deploy en producción)
-- ESLint & Prettier
-- Husky + lint-staged
-- Vitest (testing)
-- Desarrollo por features / trabajo colaborativo
+### Herramientas
+Git · GitHub · Postman · Render · ESLint · Prettier · Husky · Vitest  
 
 ---
 
-## 🧠 Competencias Técnicas
+## 📫 Contacto
 
-- Diseño e implementación de APIs REST
-- Modelado y estructuración de bases de datos
-- Autenticación y autorización con JWT
-- Desarrollo fullstack integrado
-- Deploy y configuración en entornos productivos
-- Resolución estructurada de problemas
+## 📫 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luciano-guardese-3402981b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Luciano%20Guardese-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:lucho.guardese@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🎯 Objetivo Profesional
-
-Integrarme como Backend Developer (o Fullstack con foco en backend) en un entorno profesional donde pueda aportar soluciones técnicas sólidas y evolucionar hacia roles de mayor responsabilidad técnica y arquitectura.
-
----
-
-> Backend con visión de arquitectura. Código con propósito.
+<p align="center">
+  🚀 Backend con visión de arquitectura. Código con propósito.
+</p>
