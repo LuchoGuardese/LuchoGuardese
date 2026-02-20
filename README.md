@@ -62,8 +62,6 @@ Git · GitHub · Postman · Render · ESLint · Prettier · Husky · Vitest
 
 ## 📫 Contacto
 
-## 📫 Contacto
-
 <p align="center">
   <a href="https://www.linkedin.com/in/luciano-guardese-3402981b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Luciano%20Guardese-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
