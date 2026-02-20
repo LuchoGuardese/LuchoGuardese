@@ -1,111 +1,107 @@
-# 👋 Hola, soy Luciano Guardese
+# 👋 Luciano Guardese
 
-💻 Técnico Universitario en Programación  
-🚀 Backend Developer con perfil Fullstack  
+🎓 Técnico Universitario en Programación (UTN)  
+💻 Backend Developer | Fullstack Profile  
 📍 Argentina  
 
 ---
 
-## 🎓 Formación Académica
+## 🚀 Sobre mí
 
-Estoy finalizando la carrera de **Técnico Universitario en Programación (UTN)**.
+Soy desarrollador orientado a backend con experiencia construyendo aplicaciones web fullstack completas, incluyendo arquitectura de API, modelado de base de datos y despliegue en producción.
 
-La formación está orientada a desarrollar técnicos con sólidos conocimientos teóricos y una fuerte base práctica, capaces de:
+Trabajo con una mentalidad estructurada, enfocada en buenas prácticas, diseño escalable y soluciones alineadas a necesidades reales de negocio.
 
-- Interpretar y ejecutar soluciones definidas por un Analista.
-- Elaborar y corregir programas utilizando tecnologías demandadas por el mercado laboral.
-- Optimizar procesos mediante soluciones informáticas adaptadas a contextos reales de negocio.
-
-Mi enfoque está orientado al desarrollo de sistemas de gestión, arquitectura backend y modelado de bases de datos.
+Actualmente busco desarrollarme profesionalmente dentro de un equipo donde pueda aportar solidez técnica y seguir creciendo en arquitectura de software.
 
 ---
 
-## 🚀 Proyecto Destacado — Oleohidráulica Guardese
+## 🏗 Proyecto Fullstack en Producción
 
-Aplicación web fullstack funcional desarrollada como Proyecto Final de la Tecnicatura.
+### Oleohidráulica Guardese
 
-🔗 Frontend desplegado en Render:  
-https://trabajo-final-frontend-j103.onrender.com
+Aplicación web completa desarrollada como proyecto final académico y desplegada en entorno productivo.
 
-### 🧩 Arquitectura
+🔗 https://trabajo-final-frontend-j103.onrender.com
 
-Aplicación completa dividida en:
+### Arquitectura implementada:
 
 - Frontend: React 19 + TypeScript + Vite
 - Backend: Node.js + Express + TypeScript
 - Base de datos: PostgreSQL (Render)
 - ORM: Sequelize
-- Autenticación: JWT
-- Consumo HTTP: Axios
+- Autenticación segura con JWT
+- API REST modular
+- Testing con Vitest
+- Deploy completo en Render (frontend + backend + DB)
 
-### 🔹 Funcionalidades principales
+Incluye:
 
-- Portal público con autenticación
-- Portal cliente con carrito de compras y gestión de presupuestos
-- Portal administrador con panel de control
-- CRUD completo de productos, usuarios y presupuestos
-- Sistema de autenticación con JWT
-- API REST estructurada por módulos
-- Deploy productivo en Render (frontend + backend + base de datos)
-
-Proyecto desarrollado bajo metodología por features, con control de versiones en Git y organización de tareas en Trello.
+- Portal público
+- Portal cliente (carrito y gestión de presupuestos)
+- Panel administrador (CRUD completo)
+- Manejo de roles y autenticación
 
 ---
 
 ## 🛠 Stack Tecnológico
 
+### Lenguajes
+- C++
+- C#
+- Python
+- JavaScript
+- TypeScript
+- SQL
+
 ### Backend
 - Node.js
 - Express
-- TypeScript
-- Sequelize
+- REST APIs
 - JWT
-- PostgreSQL
-- Arquitectura REST
-- Manejo de errores y validaciones
+- Sequelize
+- Arquitectura modular
 
 ### Frontend
-- React 19
+- React
 - TypeScript
-- Vite
 - React Router
 - Context API
 - Axios
 - Bootstrap
 
 ### Bases de Datos
+- PostgreSQL
 - Modelado Entidad-Relación (MER)
 - Normalización
 - Diseño estructural de sistemas de gestión
 
-### Herramientas
+### Herramientas & Prácticas
 - Git & GitHub
 - Postman
 - Render (Deploy en producción)
 - ESLint & Prettier
 - Husky + lint-staged
-- Vitest (testing frontend)
+- Vitest (testing)
+- Desarrollo por features / trabajo colaborativo
 
 ---
 
-## 🧠 Perfil Profesional
+## 🧠 Competencias Técnicas
 
-Me especializo en desarrollo backend, con capacidad para desarrollar aplicaciones fullstack completas.
-
-Me interesa especialmente:
-
-- Arquitectura de aplicaciones
-- Diseño de APIs escalables
-- Modelado y estructuración de datos
-- Sistemas de gestión empresariales
-- Integración frontend–backend
+- Diseño e implementación de APIs REST
+- Modelado y estructuración de bases de datos
+- Autenticación y autorización con JWT
+- Desarrollo fullstack integrado
+- Deploy y configuración en entornos productivos
+- Resolución estructurada de problemas
 
 ---
 
 ## 🎯 Objetivo Profesional
 
-Desarrollarme profesionalmente como Backend Developer dentro de un equipo técnico sólido, aportando soluciones estructuradas, escalables y alineadas a necesidades reales de negocio.
+Integrarme como Backend Developer (o Fullstack con foco en backend) en un entorno profesional donde pueda aportar soluciones técnicas sólidas y evolucionar hacia roles de mayor responsabilidad técnica y arquitectura.
 
 ---
 
-> “Construyendo software con estructura, lógica y visión a largo plazo.”
+> Backend con visión de arquitectura. Código con propósito.
