@@ -1,10 +1,8 @@
 <h1 align="center">Luciano Guardese</h1>
 
-<p align="center">
-Backend Developer · Fullstack Profile  
-Técnico Universitario en Programación (UTN)  
-Argentina
-</p>
+<p align="center"> Backend Developer · Fullstack Profile </p>  
+<p align="center"> Técnico Universitario en Programación (UTN) </p>  
+<p align="center"> Argentina </p>
 
 ---
 
