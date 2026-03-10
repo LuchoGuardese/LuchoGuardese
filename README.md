@@ -29,6 +29,7 @@ https://trabajo-final-frontend-j103.onrender.com
 
 Repositories:  
 Frontend → https://github.com/LuchoGuardese/Trabajo-Final-Frontend 
+
 Backend → https://github.com/LuchoGuardese/Trabajo-Final-Backend 
 
 Arquitectura implementada:
