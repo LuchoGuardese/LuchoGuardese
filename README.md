@@ -28,8 +28,8 @@ Demo:
 https://trabajo-final-frontend-j103.onrender.com  
 
 Repositories:  
-Frontend → https://github.com/belenburgos20/Trabajo-Final-Frontend  
-Backend → https://github.com/belenburgos20/Trabajo-Final-Backend  
+Frontend → https://github.com/LuchoGuardese/Trabajo-Final-Frontend 
+Backend → https://github.com/LuchoGuardese/Trabajo-Final-Backend 
 
 Arquitectura implementada:
 
